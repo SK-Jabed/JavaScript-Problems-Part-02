@@ -26,9 +26,3 @@ const max2 = getMax(55, 50);
 const ultimateMax = getMax(max1, max2);
 
 console.log("Max number is:", ultimateMax);
-
-
-
-const jim = 62;
-const kim = 65;
-const dim = 69;
