@@ -1,12 +1,12 @@
-// console.log("Start");
+console.log("Start");
 
-// setTimeout(() => {
-//   console.log("Timeout");
-// }, 0);
+setTimeout(() => {
+  console.log("Timeout");
+}, 0);
 
-// Promise.resolve().then(() => console.log("Promise"));
+Promise.resolve().then(() => console.log("Promise"));
 
-// console.log("End");
+console.log("End");
 
 
 // function User(name) {
@@ -118,8 +118,8 @@
 // foo();
 
 
-for(var i = 0; i < 3; i++) {
-    document.querySelector("button").addEventListener("click", function() {
-        console.log(i);
-    })
-}
+// for(var i = 0; i < 3; i++) {
+//     document.querySelector("button").addEventListener("click", function() {
+//         console.log(i);
+//     })
+// }
