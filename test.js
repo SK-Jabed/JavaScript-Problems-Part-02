@@ -110,9 +110,16 @@
 // numbers = numbers.map(num => num * 2);
 // console.log(numbers);
 
-const x = 10;
-function foo() {
-    console.log(x);
-    const x = 20;
+// const x = 10;
+// function foo() {
+//     console.log(x);
+//     const x = 20;
+// }
+// foo();
+
+
+for(var i = 0; i < 3; i++) {
+    document.querySelector("button").addEventListener("click", function() {
+        console.log(i);
+    })
 }
-foo();
