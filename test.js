@@ -36,7 +36,6 @@ console.log("End");
 // var foo = "Hello";
 // console.log(foo);
 
-
 // app.get("/data", async (req, res) => {
 //     const result = fetch("https://api.example.com/data");
 //     res.send(await result.json());
@@ -49,7 +48,6 @@ console.log("End");
 // function sum(...numbers, extra)  {
 //     return numbers.reduce((acc, num) => acc + num, 0) + extra;
 // }
-
 
 // const [user, setUser] = useState({name: "Alice", age: 20});
 // function updateAge() {
