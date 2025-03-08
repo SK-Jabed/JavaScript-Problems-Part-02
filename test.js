@@ -8,7 +8,6 @@ Promise.resolve().then(() => console.log("Promise"));
 
 console.log("End");
 
-
 // function User(name) {
 //     this.name = name;
 // }
@@ -19,7 +18,6 @@ console.log("End");
 
 // const user1 = new User("Alice");
 // user1.sayHello();
-
 
 // function counter() {
 //     let count = 0;
