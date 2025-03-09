@@ -50,14 +50,17 @@ console.log("End");
 //  console.log("Effect runs");
 // }, [user])
 
+
 // function sum(...numbers, extra)  {
 //     return numbers.reduce((acc, num) => acc + num, 0) + extra;
 // }
+
 
 // const [user, setUser] = useState({name: "Alice", age: 20});
 // function updateAge() {
 //     setUser({ age: 30 });
 // }
+
 
 // function MyComponent() {
 //     const inputRef = useRef();
@@ -71,6 +74,7 @@ console.log("End");
 
 // console.log(1 + "2" + 3);
 
+
 // function fetchData() {
 //     let data;
 //     fetch("https://api.example.com/data")
@@ -78,6 +82,7 @@ console.log("End");
 //         .then(json => data = json);
 //     return data;
 // }
+
 
 // function multiply(x, y = 2) {
 //     return x * y;
