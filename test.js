@@ -34,14 +34,17 @@ console.log("End");
 // count2();
 // count2();
 
+
 // console.log(foo);
 // var foo = "Hello";
 // console.log(foo);
+
 
 // app.get("/data", async (req, res) => {
 //     const result = fetch("https://api.example.com/data");
 //     res.send(await result.json());
 // });
+
 
 // useEffect(() => {
 //  console.log("Effect runs");
